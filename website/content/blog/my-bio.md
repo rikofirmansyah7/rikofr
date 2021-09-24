@@ -6,7 +6,7 @@ description = ""
 draft = true
 github_link = ""
 tags = []
-title = "My Bio"
+title = "My Profile"
 toc = ""
 
 +++
