@@ -1,51 +1,35 @@
 ---
-title: "Rich Content"
-date: 2021-04-03T19:53:33+05:30
-draft: false
-author: "Gurusabarish"
-tags:
-  - Rich content
-bg_image: ""
-description: ""
+title: My Profile
+date: 2021-09-23T18:00:00+00:00
+author: Riko FR
+tags: []
+bg_image: ''
+description: ''
 toc: 
+
 ---
+Hugo dikirimkan dengan beberapa Shortcode [Built-in](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) untuk konten yang kaya, bersama dengan [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) dan satu set Simple Shortcode yang mendukung versi statis dan tanpa JS dari berbagai media sosial yang disematkan.
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+## Inti Kode Pendek Sederhana
 
-## Gist Simple Shortcode
-```
-{{</* gist spf13 7896402 "img.html" */>}}
-```
-<br>
-{{< gist spf13 7896402 "img.html" >}}
-<br>
+    {{</* gist spf13 7896402 "img.html" */>}}
 
+<br> {{< gist spf13 7896402 "img.html" >}} <br>
 
+## Kode Pendek Twitter Sederhana
 
-## Twitter Simple Shortcode
-```
-{{</* tweet 877500564405444608 */>}}
-```
-<br>
-{{< tweet 877500564405444608 >}}
-<br>
+    {{</* tweet 877500564405444608 */>}}
 
+<br> {{< tweet 877500564405444608 >}} <br>
 
+## Kode Pendek Sederhana Vimeo
 
-## Vimeo Simple Shortcode
-```
-{{</* vimeo 146022717 */>}}
-```
-<br>
-{{< vimeo 146022717 >}}
-<br>
+    {{</* vimeo 146022717 */>}}
 
+<br> {{< vimeo 146022717 >}} <br>
 
+## Kode Pendek Youtube Sederhana
 
-## Youtube Simple Shortcode
-```
-{{</* youtube w7Ft2ymGmfc */>}}
-```
-<br>
-{{< youtube w7Ft2ymGmfc >}}
-<br>
+    {{</* youtube w7Ft2ymGmfc */>}}
+
+<br> {{< youtube w7Ft2ymGmfc >}} <br>
