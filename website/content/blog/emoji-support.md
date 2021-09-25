@@ -1,5 +1,5 @@
 ---
-title: Funny
+title: Emoji
 date: 2021-04-03T22:53:58.000+05:30
 github_link: https://github.com/gurusabarish/hugo-profile
 author: Riko FR
