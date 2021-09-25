@@ -1,5 +1,5 @@
 ---
-title: Jokes
+title: More
 date: 2021-04-03T22:41:10.000+05:30
 github_link: https://github.com/gurusabarish/hugo-profile
 author: Riko FR
