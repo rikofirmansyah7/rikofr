@@ -1,5 +1,5 @@
 ---
-title: My Profile
+title: Kode
 date: 2021-09-23T18:00:00+00:00
 author: Riko FR
 tags: []
