@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "rikofrblog.com"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Yo-HOHOHO"
 theme: "./.."
 relativeURLs: true
 
@@ -37,7 +37,7 @@ params:
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
+  instagram: "https://www.instagram.com/invites/contact/?i=1sagpcn813czb&utm_content=8my11kp"
   facebook: "https://facebook.com"
 
   # About
@@ -45,14 +45,14 @@ params:
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: Game
+      percentage: 100
+    - name: Editing
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Watching Anime
+      percentage: 90
+    - name: Sport
+      percentage: 95
 
   # Experience
   disable_experience: false
@@ -73,7 +73,7 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
+    - company: "Lumajang"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Feb 2019
